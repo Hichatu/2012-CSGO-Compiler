@@ -1,5 +1,5 @@
 # 2012-CSGO-Compiler
-This is a version of Valve's VRAD.exe and VBSP.exe from 2012.
+CSGO's bin/ folder from 2012
 
 Since the Wildfire update, the new versions of vrad.exe have forced mappers to use StaticPropLighting if they want their props to be properly lit.
 This old version of vrad doesn't come with that issue, which means you can use the old prop lighting technique and cut filesize down drastically, since vertex lighting isn't used here.
