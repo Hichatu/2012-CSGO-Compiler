@@ -12,7 +12,7 @@ Guide:
 -Where it says "BSP executable", "Browse" to the vbsp.exe you just downloaded  
 -Same step as previous but for "RAD executable" and vrad.exe  
 -Hit OK / Apply  
--Put this into your VRAD parameters during "Expert Compile": -textureshadows -hdr -StaticPropPolys -game $gamedir $path\$file  
+-Put this into your VRAD parameters in "Expert Compile": -textureshadows -hdr -StaticPropPolys -game $gamedir $path\$file  
 -Most of the above mentioned parameters are probably already there, but it's just to make sure  
 -Compile your map, and check the filesize against a regular compile  
 
