@@ -4,7 +4,7 @@ CSGO's bin/ folder from 2012
 Since the Wildfire update, the new versions of vrad.exe have forced mappers to use StaticPropLighting if they want their props to be properly lit.
 This old version of vrad doesn't come with that issue, which means you can use the old prop lighting technique and cut filesize down drastically, since vertex lighting isn't used here.
 
-This contains the whole bin folder from CSGO in 2012, but you only need the vrad.exe and vbsp.exe for the trick to work.
+This contains the whole bin folder from CSGO in 2012, but you only need the vrad.exe and vbsp.exe for the trick to work. Someone might find the other exes of use.
 
 Guide:
 -Download the zip, and extract it somewhere  
