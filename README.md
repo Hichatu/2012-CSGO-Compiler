@@ -6,7 +6,7 @@ This old version of vrad doesn't come with that issue, which means you can use t
 
 This contains the whole bin folder from CSGO in 2012, but you only need the vrad.exe and vbsp.exe for the trick to work. Someone might find the other exes of use.
 
-Guide:
+Guide:  
 -Download the zip, and extract it somewhere  
 -Go into Hammer World Editor -> Tools -> Options -> Build Programs  
 -Where it says "BSP executable", "Browse" to the vbsp.exe you just downloaded  
