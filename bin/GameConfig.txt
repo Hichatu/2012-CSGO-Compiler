@@ -1,0 +1,41 @@
+"Configs"
+{
+	"Games"
+	{
+		"Counter-Strike: Global Offensive"
+		{
+			"GameDir"		"E:\Steam\steamapps\common\Counter-Strike Global Offensive"
+			"Hammer"
+			{
+				"GameData0"		"F:\Mapping\soft\Ultimate SSDK v3\SourceSDK\bin\csgo\bin\csgo.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"F:\Mapping\soft\Ultimate SSDK v3\Source Engine CSGO\csgo.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_terrorist"
+				"BSP"		"F:\Mapping\soft\Ultimate SSDK v3\SourceSDK\bin\csgo\bin\vbsp.exe"
+				"Vis"		"F:\Mapping\soft\Ultimate SSDK v3\SourceSDK\bin\csgo\bin\vvis.exe"
+				"Light"		"F:\Mapping\soft\Ultimate SSDK v3\SourceSDK\bin\csgo\bin\vrad.exe"
+				"GameExeDir"		"F:\Mapping\soft\Ultimate SSDK v3\Source Engine CSGO"
+				"MapDir"		"F:\Mapping\soft\Ultimate SSDK v3\sourcesdk_content\csgo\mapsrc"
+				"BSPDir"		"F:\Mapping\soft\Ultimate SSDK v3\Source Engine CSGO\csgo\maps"
+				"PrefabDir"		"F:\Mapping\soft\Ultimate SSDK v3\SourceSDK\bin\csgo\bin\prefabs"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"10"
+				"-MaterialExcludeDir0"		"console"
+				"-MaterialExcludeDir1"		"debug"
+				"-MaterialExcludeDir2"		"detail"
+				"-MaterialExcludeDir3"		"engine"
+				"-MaterialExcludeDir4"		"hlmv"
+				"-MaterialExcludeDir5"		"hud"
+				"-MaterialExcludeDir6"		"particle"
+				"-MaterialExcludeDir7"		"models"
+				"-MaterialExcludeDir8"		"vgui"
+				"-MaterialExcludeDir9"		"voice"
+			}
+		}
+	}
+	"SDKVersion"		"5"
+}
