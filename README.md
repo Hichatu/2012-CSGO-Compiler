@@ -12,7 +12,8 @@ Run the .bat file when you want to compile your map, you will need to switch bet
 Switch back when you need to open Hammer or CSGO
 
 ##### Example .bat file to compile your map
-``` cd FULL_PATH_TO_BIN_FOLDER
+```
+cd FULL_PATH_TO_BIN_FOLDER
 vbsp.exe -game "PATH_TO_csgo/" "PATH_TO_vmf (do not include .vmf)"
 vvis.exe -game "PATH_TO_csgo/" "PATH_TO_vmf (do not include .vmf)"
 vrad.exe -hdr -staticproppolys -game "PATH_TO_csgo/" "PATH_TO_vmf (do not include .vmf)"
