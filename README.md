@@ -22,6 +22,7 @@ vrad.exe -hdr -staticproppolys -game "PATH_TO_csgo/" "PATH_TO_vmf (do not includ
 ==End .bat file==
 
 
+
 OLD Guide (OBSOLETE WITH A RECENT CSGO UPDATE):  
 Download the zip, and extract it somewhere  
 Go into Hammer World Editor -> Tools -> Options -> Build Programs  
