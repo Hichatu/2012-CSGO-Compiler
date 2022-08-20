@@ -5,11 +5,11 @@ Since the Wildfire update, the new versions of vrad.exe have forced mappers to u
 This old version of vrad doesn't come with that issue, which means you can use the old prop lighting technique and cut filesize down drastically, since vertex static prop lighting isn't used here.
  
 #### Guide:
-Make a backup of your Counter-Strike Global Offensive/bin folder, you can also rename it to binX or something similar
-Download this bin folder, and throw it into Counter-Strike Global Offensive/
-You will need to create a .bat file in order to compile your map, see below for an example you can edit and run
-Run the .bat file when you want to compile your map, you will need to switch between bin folders!
-Switch back when you need to open Hammer or CSGO
+Make a backup of your Counter-Strike Global Offensive/bin folder, you can also rename it to binX or something similar  
+Download this bin folder, and throw it into Counter-Strike Global Offensive/  
+You will need to create a .bat file in order to compile your map, see below for an example you can edit and run  
+Run the .bat file when you want to compile your map, you will need to switch between bin folders!  
+Switch back when you need to open Hammer or CSGO  
 
 ##### Example .bat file to compile your map
 ```
